@@ -1,52 +1,32 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Tran Ngoc Thang",
+    "occupation":"Fullstack Developer",
+    "description":"I have worked as a developers for 7 years, with 5 years as a mobile developers with React-native,Flutter and 2 years with nodejs, python",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Highly skilled IT professional with over 7 years professional experience including web development, mobile application development, implementation, deployment, internal and customer support. Performed several senior developer",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "ngocthang1493@gmail.com",
+    "phone": "+84-363-348-4477",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Minh Khai",
+      "city":"Ha Noi",
+      "state":"Viet Nam",
+      "zip": "10000"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/WinnerTNT?eid=ARAAjg-LuWmqsq4CTQ_HGhNHtv_59R_AUUebS7nzI_WGicTfFHphFBGwZGANsBOKaeiCuZvnpMNSSx5z&tn-str=*F",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
+      }, 
       {
         "name":"skype",
         "url":"http://skype.com",
@@ -59,94 +39,113 @@
     "education":[
       {
         "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree":"Posts and Telecommunications Institute of Technolog",
+        "graduated":"April 20015",
+        "description":"Major:Software technology"
       }
+    
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CMC Global",
+        "title":"Senior Mobile Developer",
+        "years":"March 2019 - Present",
+        "description":"I work with some partner from korea as SAMSUNG,PANASONIC,CIT(Choongwae information technology) and some projects startup with singapore partner 's Embrioent"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"NextTech 's Company",
+        "title":"TeamLead Mobile",
+        "years":"March 2018 - February 2019",
+        "description":"The payment gateway in Vietnam"
+      },
+      {
+        "company":"Abivin",
+        "title":"Junior mobile Devloper",
+        "years":"March 2017 - February 2018",
+        "description":"Startup LOGISTICS MANAGEMENT & OPTIMIZATION SOFTWARE"
+      },
+      {
+        "company":"FPT software",
+        "title":"Junior Developer",
+        "years":"March 2015 - February 2017",
+        "description":"I work on an auto automobile research project with LG form korean and Ntt data from japanes"
+      },
+      {
+        "company":"Other",
+        "title":"FreeLancer",
+        "years":"March 2015 - February 2017",
+        "description":"I work on an auto automobile research project with LG form korean and Ntt data from japanes"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"React Native",
+        "level":"85%"
+      },
+      {
+        "name":"Flutter",
+        "level":"65%"
+      },
+      {
+        "name":"Android and Ios",
+        "level":"50%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Nodejs",
+        "level":"70%"
       },
       {
-        "name":"HTML5",
+        "name":"MongoDB,Firebase",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Aws and Google Cloud",
+        "level":"40%"
       }
+     
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Flywhere",
+        "category":"Drone Community (including the Regulators and the General Public) to interact and interconnect with one and other",
+        "image":"flywhere.png",
+        "url":"https://dronexchange.sg/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Ngan Luong",
+        "category":"The payment gateway in Vietnam",
+        "image":"nganluong.png",
+        "url":"https://www.nganluong.vn/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Abivin",
+        "category":"LOGISTICS MANAGEMENT & OPTIMIZATION SOFTWARE",
+        "image":"abivin.png",
+        "url":"https://www.abivin.com/"
+      }, 
+      {
+        "title":"Vend",
+        "category":"A Reacttjs website for startup mylaysia",
+        "image":"vend.png",
+        "url":"http://vend.my/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"BongViet",
+        "category":"A React-native application",
+        "image":"bongviet.png",
+        "url":"https://apps.apple.com/vn/app/b%C3%B3ng-vi%E1%BB%87t/id1418514329"
       }
+     
     ]
   },
   "testimonials":{
