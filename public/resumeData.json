@@ -2,7 +2,7 @@
   "main": {
     "name":"Tran Ngoc Thang",
     "occupation":"Fullstack Developer",
-    "description":"I have worked as a developers for 7 years, with 5 years as a mobile developers with React-native,Flutter and 2 years with nodejs, python",
+    "description":"I have worked as a developers for 7 years, with 5 years as a mobile developers with React-native,Flutter and 2 years with nodejs, python,reactJs",
     "image":"profilepic.jpg",
     "bio":"Highly skilled IT professional with over 7 years professional experience including web development, mobile application development, implementation, deployment, internal and customer support. Performed several senior developer",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -14,8 +14,8 @@
       "state":"Viet Nam",
       "zip": "10000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://cv-thang.web.app/",
+    "resumedownload":"https://docs.google.com/document/d/1hU9JilS6cu7TPSCit9cflZimLPwczeDVz65n46dnqas/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
